@@ -1,0 +1,11 @@
+pillow
+opencv-contrib-python
+ultralytics
+torch
+transformers
+accelerate
+uvicorn[standard]
+requests
+numpy
+llama-cpp-python
+ddgs>=0.6
