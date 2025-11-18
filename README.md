@@ -1,5 +1,5 @@
 # 🚀 AsistentAI
-![AsistentAI](ikona.png)
+![AsistentAI](ikona.ico)
 
 **Navigation:** [INSTRUCTIONS.md](INSTRUCTIONS.md) · [OFFLINE_MODE.md](OFFLINE_MODE.md) · [CONTRIBUTING.md](CONTRIBUTING.md) · [PRIVACY_CLEANUP.md](PRIVACY_CLEANUP.md)
 
@@ -252,3 +252,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - **GROQ Backend:**
   - If selected without a configured model, chat is disabled and a warning is shown.
   - To enable chat, configure a GROQ model in settings.
+
